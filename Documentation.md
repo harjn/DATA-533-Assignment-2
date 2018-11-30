@@ -84,20 +84,20 @@ Group members:
 
 
 \** shifts are integers that correspond to different work shifts throughout the week:
-Integer | Shift Day | Start Time | End Time
----|---|---|---
-1 | Monday | 8:00AM | 12:00PM
-2 | Monday | 12:00PM | 4:00PM
-3 | Monday | 4:00PM | 8:00PM
-4 | Tuesday | 8:00AM | 12:00PM
-5 | Tuesday | 12:00PM | 4:00PM
-6 | Tuesday | 4:00PM | 8:00PM
-7 | Wednesday | 8:00AM | 12:00PM
-8 | Wednesday | 12:00PM | 4:00PM
-9 | Wednesday | 4:00PM | 8:00PM
-10 | Thursday | 8:00AM | 12:00PM
-11 | Thursday | 12:00PM | 4:00PM
-12 | Thursday | 4:00PM | 8:00PM
-13 | Friday | 8:00AM | 12:00PM
-14 | Friday | 12:00PM | 4:00PM
-15 | Friday | 4:00PM | 8:00PM
+| Integer | Shift Day | Start Time | End Time |
+|--- | --- | --- | --- |
+| 1 | Monday | 8:00AM | 12:00PM |
+| 2 | Monday | 12:00PM | 4:00PM |
+| 3 | Monday | 4:00PM | 8:00PM |
+| 4 | Tuesday | 8:00AM | 12:00PM |
+| 5 | Tuesday | 12:00PM | 4:00PM |
+| 6 | Tuesday | 4:00PM | 8:00PM |
+| 7 | Wednesday | 8:00AM | 12:00PM |
+| 8 | Wednesday | 12:00PM | 4:00PM |
+| 9 | Wednesday | 4:00PM | 8:00PM |
+| 10 | Thursday | 8:00AM | 12:00PM |
+| 11 | Thursday | 12:00PM | 4:00PM |
+| 12 | Thursday | 4:00PM | 8:00PM |
+| 13 | Friday | 8:00AM | 12:00PM |
+| 14 | Friday | 12:00PM | 4:00PM |
+| 15 | Friday | 4:00PM | 8:00PM |
