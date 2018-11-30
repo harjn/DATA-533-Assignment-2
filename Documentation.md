@@ -2,11 +2,14 @@ Group members:
 * Harjot Nijjar
 * Matthias Lee
 
-**ourBusiness** is a python package that enables us to track the individuals who are a part of our business, our customers, business expenses and sales. 
+
 
 
 # Package: **ourBusiness**
 ---
+
+**ourBusiness** is a python package that enables us to track the individuals who are a part of our business, our customers, business expenses and sales. 
+
 ## Subpackage 1: **People**
 
 ### Module 1: **Staff**
