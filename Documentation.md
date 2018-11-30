@@ -87,7 +87,7 @@ Group members:
 
 
 
-
+---
 
 \** shifts are integers that correspond to different work shifts throughout the week:
 
