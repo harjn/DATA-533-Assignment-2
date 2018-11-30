@@ -8,4 +8,7 @@ class Expense:
         Expense.totalExpenses += cost
 		
 def totalExpenses():
+	"""
+	Returns all expenses by employee(s)
+	"""
 	return Expense.totalExpenses
