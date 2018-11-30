@@ -8,7 +8,7 @@ Group members:
 # Package: **ourBusiness**
 ---
 
-**ourBusiness** is a python package that enables us to track the individuals who are a part of our business, our customers, business expenses and sales. 
+**ourBusiness** is a python package that enables us to track our staff, customers, business expenses and sales. 
 
 ## Subpackage 1: **People**
 
@@ -87,6 +87,7 @@ Group members:
 
 
 \** shifts are integers that correspond to different work shifts throughout the week:
+
 | Integer | Shift Day | Start Time | End Time |
 |--- | --- | --- | --- |
 | 1 | Monday | 8:00AM | 12:00PM |
