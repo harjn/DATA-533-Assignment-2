@@ -15,6 +15,9 @@ class Manager(Staff):
         self.employeesManaged=employeesManaged
     
     def addShift(self,shift):
+        """
+		Adds this shifts to the shifts of a Manager 
+		"""
         self.shifts.append(shift)
         
 class OtherEmployee(Staff):
@@ -24,4 +27,7 @@ class OtherEmployee(Staff):
         self.managerID=managerID
         
     def addShift(self,shift):
+        """
+		Adds shifts to the shifts of an OtherEmployee 
+		"""
         self.shifts.append(shift)
