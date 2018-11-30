@@ -7,7 +7,8 @@ class Sale:
         self.employeeID = employeeID
 		self.customerID = customerID
         
-        totalSales += cost 
+        Sale.totalSales += cost 
         
-    def totalSales(self):
-        return totalSales
+		
+def totalSales():
+	return Sale.totalSales
