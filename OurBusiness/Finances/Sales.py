@@ -5,8 +5,7 @@ class Sale:
         self.cost = cost
         self.saleDate = saleDate
         self.employeeID = employeeID
-		self.customerID = customerID
-        
+        self.customerID = customerID
         Sale.totalSales += cost 
         
 		
