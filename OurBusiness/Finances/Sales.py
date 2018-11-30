@@ -10,4 +10,7 @@ class Sale:
         
 		
 def totalSales():
+	"""
+	Returns total sales 
+	"""
 	return Sale.totalSales
