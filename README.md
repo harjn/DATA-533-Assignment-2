@@ -1,10 +1,11 @@
-Group members:
-* Harjot Nijjar
-* Matthias Lee
+### Group members:
+***Harjot Nijjar, Matthias Lee***
 
+-------------
 ## OurBusiness (package)
 
-Subpackage 1 - **People**
+
+#### Subpackage 1 - **People**
 
 Function 1: `addShift(Shift)`
 
@@ -19,7 +20,7 @@ Input: None
 Output: Returns a list of strings that contains the emails of all customers
 
 
-Subpackage 2 - **Finances**
+#### Subpackage 2 - **Finances**
 
 Function 1: `totalExpenses()`
 
