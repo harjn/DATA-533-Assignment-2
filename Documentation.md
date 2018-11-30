@@ -88,6 +88,8 @@ Group members:
 
 \** shifts are integers that correspond to different work shifts throughout the week:
 
+
+
 | Integer | Shift Day | Start Time | End Time |
 |--- | --- | --- | --- |
 | 1 | Monday | 8:00AM | 12:00PM |
