@@ -45,7 +45,7 @@ Group members:
         * `shifts` - list of integers \**
     * Functions
         * `addShift(shift)` : 
-            * shift : int 
+            * shift : integer 
             > Adds this shift to the shifts of an OtherEmployee
 
 ### Module 2: Customer
@@ -82,7 +82,8 @@ Group members:
         * `itemName` - string
         * `cost` - float
         * `saleDate` - string of format MM-DD-YYYY (ex. '10-15-2010')
-        * `employeeID` - integer
+        * `employeeID` - 
+        eger
         * `customerID` - integer
 
 
