@@ -19,6 +19,7 @@ Function 2: `allEmails()`
 * Input: None
 * Output: Returns a list of strings that contains the emails of all customers
 
+---
 
 #### Subpackage 2 - **Finances**
 
