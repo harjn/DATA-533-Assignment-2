@@ -11,4 +11,7 @@ class Customer:
 
 		
 def allEmails():
+	"""
+	Returns a list of all customers' email
+	"""
 	return Customer.emails
